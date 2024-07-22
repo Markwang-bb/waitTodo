@@ -33,7 +33,7 @@ export default function TodoList({
       </div>
       {todos.length === 0 && (
         <p className="text-center text-sm text-gray-500">
-          无待办事项。请在上方添加一个新的
+          无待办事项 请在上方添加一个新的
         </p>
       )}
     </>
